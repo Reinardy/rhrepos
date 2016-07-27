@@ -1,4 +1,4 @@
-##APNS Push Notification
+##APNS Push Notification with Camel Blueprint 
 
 **Services Catalog**
 
