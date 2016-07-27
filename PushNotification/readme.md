@@ -18,8 +18,10 @@ Services Catalog
 	a. hashcode
 	b. passcode
 	response
-	a. statuscode = 200
-	b. 
+	{
+  		"statusCode": 200,
+  		"isValid": "true"
+	}
 Flow
 1. Device register their device with custid 
 2. Register service will store the device id pair with custid
