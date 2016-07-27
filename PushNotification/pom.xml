@@ -6,7 +6,7 @@
 	<groupId>com.sc.retail</groupId>
 	<version>1.0.0</version>
 	<packaging>bundle</packaging>
-	<name>Account Microservice Route</name>
+	<name>APNS Push Service</name>
 	<properties>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -209,7 +209,7 @@
 			</plugin>
 		</plugins>
 	</build>
-	<artifactId>list-services</artifactId>
+	<artifactId>notification</artifactId>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
